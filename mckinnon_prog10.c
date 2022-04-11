@@ -1,7 +1,7 @@
 //program 10 (larger program)
 //gas purchase list
-//add name, date, and a description
-//spring 2021
+//Carter McKinnon COP2220 Fall 2021
+//Basic Program that allows users to enter and track gas purchases
 
 
 #define _CRT_SECURE_NO_WARNINGS //for Visual Studio compiler
